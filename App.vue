@@ -1,9 +1,7 @@
 <template>
-  <div id="app">
+  <v-app id="app">
     <Calendar></Calendar>
-    <local-component></local-component>
-    <DMPicker></DMPicker>
-  </div>
+  </v-app>
 </template>
 
 <script>
